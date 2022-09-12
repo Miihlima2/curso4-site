@@ -1,6 +1,10 @@
 body {
     background: rgb(109, 223, 252) ;}
+
+#foto {
+    width: 100%;
+
 p{
     text-align: center;
-    background: rgb(109, 233, 255);
+    background: rgb(109, 223, 252);
 }
