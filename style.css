@@ -9,3 +9,16 @@ p{
     text-align: center;
     background: rgb(109, 223, 252);
 }
+
+.itens {
+    font-style: italic;
+}
+
+
+.benefícios {
+     background: rgb(42, 93, 202);
+}
+
+h2 {
+    text-align: center;
+}
