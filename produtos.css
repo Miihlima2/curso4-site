@@ -8,11 +8,11 @@ h1{
 
 #logo {
     width: 250px;
-
+    display: inline;
 }
 
 nav {
-    display:inline
+    display:inline-block;
 }
 
 nav li{
