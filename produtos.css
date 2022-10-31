@@ -13,6 +13,7 @@ h1{
 
 nav {
     display:inline-block;
+    margin-left: 10px;
 }
 
 nav li{
