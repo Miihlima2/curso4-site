@@ -13,7 +13,7 @@ h1{
 
 nav {
     display:inline-block;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 nav li{
@@ -23,7 +23,7 @@ nav li{
 nav a {
     text-transform: uppercase;
     color: white;
-    font size: 22px;
+    font-size: 22px;
     text-decoration: none;
 }
 
