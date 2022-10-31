@@ -19,6 +19,13 @@ nav li{
     display: inline;
 }
 
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font size: 22px;
+    text-decoration: none;
+}
+
 
 
 
