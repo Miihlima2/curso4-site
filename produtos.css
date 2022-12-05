@@ -46,7 +46,15 @@ nav a {
 .produtos h2{
     font-size: 25px;
     font-weight: bold;
+    padding: 10px;
 }
+
+.produtos li p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+
 
 
 
