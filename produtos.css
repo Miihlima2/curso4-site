@@ -35,6 +35,9 @@ nav a {
 .produtos li{
     display: inline-block;
     text-align: center;
+    border-color: red;
+    border-width: 5px;
+    border-style: ;
 
 }
 
